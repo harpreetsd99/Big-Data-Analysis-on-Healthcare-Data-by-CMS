@@ -27,3 +27,9 @@ Regional and Temporal Understanding: Provides a nuanced perspective on regional 
 Continuous Model Improvement: Regular updates and refinements to ensure ongoing relevance.
 Expansion of Datasets: Incorporation of additional datasets to enhance predictive capabilities.
 Collaborative Initiatives: Collaboration with stakeholders, regulatory bodies, and law enforcement for a collective approach to combating healthcare fraud.
+
+### Datasets:
+CMS Part D Datasets: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Part-D-Prescriber.html 
+LEIE Datasets: https://oig.hhs.gov/exclusions/exclusions_list.asp 
+FDA Datasets: https://www.fda.gov/Drugs/InformationOnDrugs/ucm079750.htm#collapseOne 
+Payments Dataset: https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads
