@@ -1,4 +1,4 @@
-# Big-Data-Analysis-on-Healthcare-Data-by-CMS
+# Big-Data-Analysis-on-Healthcare-Data-by-CMS using PySpark
 This project focuses on Healthcare Fraud Detection, employing advanced data analytics to combat fraudulent activities in the healthcare sector. The comprehensive methodology leverages big data, machine learning, and insightful dashboards to provide stakeholders with valuable insights.
 
 ## Key Components
@@ -28,7 +28,7 @@ Continuous Model Improvement: Regular updates and refinements to ensure ongoing 
 Expansion of Datasets: Incorporation of additional datasets to enhance predictive capabilities.
 Collaborative Initiatives: Collaboration with stakeholders, regulatory bodies, and law enforcement for a collective approach to combating healthcare fraud.
 
-### Datasets:
+### Datasets (15 GB+):
 CMS Part D Datasets: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Part-D-Prescriber.html 
 LEIE Datasets: https://oig.hhs.gov/exclusions/exclusions_list.asp 
 FDA Datasets: https://www.fda.gov/Drugs/InformationOnDrugs/ucm079750.htm#collapseOne 
